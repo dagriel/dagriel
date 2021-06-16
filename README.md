@@ -6,11 +6,11 @@
 <br />
 [![Profile GitHub stats](https://github-readme-stats-brown-eta-15.vercel.app/api?username=dagriel&hide=contribs,prs)
 <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-brown-eta-15.vercel.app/api?username=dagriel&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-brown-eta-15.vercel.app/api?username=dagriel)](https://github.com/dagriel/github-readme-stats)
 <br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](github-readme-stats-brown-eta-15.vercel.app/api/wakatime?username=dagriel)](https://github.com/dagriel/github-readme-stats)
 
 <!---
 dagriel/dagriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,31 @@
 - 👋 Olá, sou @dagriel
+
+Conecte-se comigo:
+<br/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/Facebook.svg" />
+<br/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/LinkedIn.svg" />
+<br/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/Instagram.svg" />
+<br/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/GitHub.svg" />
+<br/>
+
+Git
+Spring
+Spring Boot
+Java
+JavaScript
+HTML5
+CSS3
+Bootstrap
+Angular
+Ubuntu
+Linux
+Docker
+
+<br/>
+
 - 👀 Estou interessado em me reinventar a todo instante para atender a necessidade do mundo atual;
 - 🌱 Atualmente estou aprendendo a construir aplicações distribuídas, escaláveis e de alta performance;
 - 💞️ Estou procurando colaborar em projetos para milhões de usuários em todo o mundo.

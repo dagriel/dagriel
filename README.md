@@ -5,9 +5,9 @@
 - 📫 Como chegar até mim? email: dagriel@gmail.com | Telefone: +55 27 9.9903-6641
 
 <details>
-<summary>
-<img align=”left” alt=”Dagriel’s Github Stats” src=”https://github-readme-stats-brown-eta-15.vercel.app/api?username=dagriel&show_icons=true&hide_border=true”>
-</summary>
+  <summary>
+    <img align="left" alt="Dagriel’s Github Stats" src="https://github-readme-stats-brown-eta-15.vercel.app/api?username=dagriel&show_icons=true&hide_border=true">
+  </summary>
 </details>
 
 

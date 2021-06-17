@@ -1,7 +1,45 @@
-- 👋 Olá, sou @dagriel
+### Olá, sou [Dagriel!](https://dagriel.github.io) 👋
+<br />
 
-Conecte-se comigo:
+**Conecte-se comigo:**
 
+<a href="https://www.facebook.com/profile.php?id=100008315940662">
+  <img align="left" alt="Dagriel Lacruz | Facebook" width="20px" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/facebook.svg" />
+</a>
+<a href="https://instagram.com/dagriellacruz">
+  <img align="left" alt="Dagriel's Instagram" width="21px" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/instagram.svg" />
+</a>
+<a href="https://github.com/dagriel">
+  <img align="left" alt="Dagriel's GitHub" width="21px" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/github.svg" />
+</a>
+<a href="http://www.linkedin.com/in/dagriel">
+  <img align="left" alt="Dagriel's LinkedIn" width="21px" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/linkedin.svg" />
+</a>
+<br />
+<br />
+
+**Linguagens e ferramentas:** 
+
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/java.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/spring.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/springboot.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/swagger.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/html5.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/css3.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/javascript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/angular.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/postgresql.svg"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/mariadb.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/mysql.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/mongodb.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/ubuntu.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/linux.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/docker.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/git.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/github.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/heroku.svg"></code>
+<br />
+<br />
 
 - 👀 Estou interessado em me reinventar a todo instante para atender a necessidade do mundo atual;
 - 🌱 Atualmente estou aprendendo a construir aplicações distribuídas, escaláveis e de alta performance;
@@ -13,23 +51,51 @@ Conecte-se comigo:
     <img align="left" alt="Profile Github Stats" src="https://github-readme-stats-brown-eta-15.vercel.app/api?username=dagriel&show_icons=true&hide_border=true">
 </details>
 
+<br />
+<br />
 
-<!---
-dagriel/dagriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*NOTA: Os principais idiomas não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais idiomas eu tenho mais código no github, é um novo recurso do [github-readme-stats](https://github.com/dagriel/github-readme-stats)* 
 
-
-### Hi there, I'm [Dagriel!](https://dagriel.github.io) 👋
-
-<a href="https://codesandbox.io/u/dagriel">
-  <img align="left" alt="Dagriel Lacruz | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://github.com/dagriel">
+  <img align="center" src="https://github-readme-stats-brown-eta-15.vercel.app/api?username=dagriel&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Dagriel Lacruz's GitHub Stats" />
 </a>
-<a href="https://twitter.com/dagriel">
-  <img align="left" alt="Dagriel Lacruz | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+
+<br />
+<br />
+
+<a href="https://github.com/dagriel">
+  <img align="center" src="https://github-readme-stats-brown-eta-15.vercel.app/api/top-langs/?username=dagriel&layout=compact&theme=material-palenight" alt="Most Used Languages" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Dagriel's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+
+<br />
+<br />
+<br />
+
+<hr>
+
+<br />
+<br />
+
+### Hi, I'm [Dagriel!](https://dagriel.github.io) 👋
+
+<br />
+
+**Connect with me:**
+
+<a href="https://www.facebook.com/profile.php?id=100008315940662">
+  <img align="left" alt="Dagriel Lacruz | Facebook" width="20px" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/facebook.svg" />
+</a>
+
+<a href="https://instagram.com/dagriellacruz">
+  <img align="left" alt="Dagriel's Instagram" width="21px" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/instagram.svg" />
+</a>
+
+<a href="https://github.com/dagriel">
+  <img align="left" alt="Dagriel's GitHub" width="21px" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/github.svg" />
+</a>
+
+<a href="http://www.linkedin.com/in/dagriel">
+  <img align="left" alt="Dagriel's LinkedIn" width="21px" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/linkedin.svg" />
 </a>
 
 <br />
@@ -37,42 +103,49 @@ You can click the Preview link to take a look at your changes.
 
 Hi, I'm Dagriel Lacruz, a passionate java web developer from Brazil.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 🌱 I’m currently learning Angular | Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/dagriel/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/dagriel/dagriel/issues)
+- 🔭 I’m currently working on ... <!-- [renderless-components](https://github.com/timelessco/renderless-components) -->
+- 🌱 I’m currently learning ... <!-- Angular | Typescript -->
+- 👯 I’m looking to collaborate on ... <!-- [Github Readme Stats](https://github.com/dagriel/github-readme-stats) -->
+- 💬 Ask me about anything [here]<!-- (https://github.com/dagriel/dagriel/issues) -->
 
-**Languages and Tools:**  
+<br />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+**Languages and Tools:**
 
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/java.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/spring.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/springboot.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/swagger.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/html5.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/css3.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/javascript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/angular.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/postgresql.svg"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/mariadb.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/mysql.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/mongodb.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/ubuntu.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/linux.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/docker.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/git.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/github.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/heroku.svg"></code>
 
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+*NOTE: The top languages don't indicate my skill level or anything like that, it's a github metric of which languages I have the most code in github, it's a new feature of [github-readme-stats](https://github.com/dagriel/github-readme-stats)* 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/dagriel/github-readme-stats)*
-
-<a href="https://github.com/dagriel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-brown-eta-15.vercel.app/api?username=dagriel&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Dagriel's github stats" />
+<a href="https://github.com/dagriel">
+  <img align="center" src="https://github-readme-stats-brown-eta-15.vercel.app/api?username=dagriel&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Dagriel Lacruz's GitHub Stats" />
 </a>
-<a href="https://github.com/dagriel/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-brown-eta-15.vercel.app/api/top-langs/?username=dagriel&layout=compact&theme=material-palenight" />
+
+<br />
+<br />
+
+<a href="https://github.com/dagriel">
+  <img align="center" src="https://github-readme-stats-brown-eta-15.vercel.app/api/top-langs/?username=dagriel&layout=compact&theme=material-palenight" alt="Most Used Languages" />
 </a>
 
+<!-- 
 <a href="https://github.com/dagriel/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-brown-eta-15.vercel.app/api/pin/?username=dagriel&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-brown-eta-15.vercel.app/api/pin/?username=dagriel&repo=bootcamp-dio&theme=material-palenight" />
 </a>    
-<a href="https://github.com/dagriel/dagriel.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-brown-eta-15.vercel.app/api/pin/?username=dagriel&repo=dagriel.github.io&theme=material-palenight" />
-</a>
-
+ -->

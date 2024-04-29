@@ -3,7 +3,7 @@
 - 👀 Estou interessado em me reinventar a todo instante para atender a necessidade do mundo atual;
 - 🌱 Atualmente estou aprendendo a construir aplicações distribuídas, escaláveis e de alta performance;
 - 💞️ Estou procurando colaborar em projetos para milhões de usuários em todo o mundo;
-- 📫 Como chegar até mim? dagriel@gmail.com | +55 27 99903-6641
+- 📫 Como chegar até mim? dagriel@gmail.com
 <br />
 
 ## Conecte-se comigo:

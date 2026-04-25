@@ -1,53 +1,23 @@
-# 👋 Olá, sou [Dagriel!](https://dagriel.github.io)
+# 👨‍💻 Dagriel Lacruz
+**Technical Senior Specialist (CSS) @ NTT DATA | Java & Cloud Architecture**
 
-- 👀 Estou interessado em me reinventar a todo instante para atender a necessidade do mundo atual;
-- 🌱 Atualmente estou aprendendo a construir aplicações distribuídas, escaláveis e de alta performance;
-- 💞️ Estou procurando colaborar em projetos para milhões de usuários em todo o mundo;
-- 📫 Como chegar até mim? dagriel@gmail.com
-<br />
+Com mais de **20 anos** de trajetória, atuo como referente técnico na construção de soluções de alta criticidade e escala. Meu foco é modernizar ecossistemas complexos, garantindo a integridade técnica e a excelência operacional.
 
-## Conecte-se comigo:
+### 🚀 Impacto Profissional e Resultados
+* **Evolução de Sistemas Legados:** Desenvolvimento no backend da **"New Stack TV" (Claro BSS DSM)**, processando dados para milhões de usuários em Java 11 e Spring Boot.
+* **Gestão de APIs em Larga Escala:** Especialista em orquestração de fluxos via **Apigee Edge/X** e especificações Swagger, garantindo performance e conformidade técnica.
+* **Governança e Qualidade:** Redução proativa de débitos técnicos através de **Clean Code e SonarQube**, elevando o padrão de engenharia das squads.
+* **Mentoria:** Atuação como ponto focal técnico, mentorando desenvolvedores Junior e Pleno para acelerar a resolução de problemas complexos.
 
-<a href="http://www.linkedin.com/in/dagriel">
-  <img align="left" alt="Dagriel's LinkedIn" width="21px" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/linkedin.svg" />
-</a>
-<a href="https://github.com/dagriel">
-  <img align="left" alt="Dagriel's GitHub" width="21px" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/github.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100008315940662">
-  <img align="left" alt="Dagriel Lacruz | Facebook" width="20px" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/facebook.svg" />
-</a>
-<a href="https://instagram.com/dagriellacruz">
-  <img align="left" alt="Dagriel's Instagram" width="21px" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/instagram.svg" />
-</a>
-<br />
-<br />
+### 🧠 Inovação e IA Generativa
+Atualmente focado na convergência entre Backend tradicional e IA Generativa:
+* **Generative AI Leader:** Em jornada de certificação pelo Google Cloud.
+* **IA com Java:** Pesquisando a orquestração de **agentes de IA com Java** para otimizar processos de saneamento de dados legados.
 
-## Linguagens e ferramentas:
+### 🛠️ Tech Stack
+* **Languages:** Java (8, 11, 17), Spring Boot, Spring AI, Maven.
+* **Infra:** AWS (S3), Google Cloud (GCP), MySQL 8.
+* **API:** Apigee, Swagger (OpenAPI), RESTful.
 
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/spring.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/springboot.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/swagger.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/html5.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/css3.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/javascript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/angular.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/postgresql.svg"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/mariadb.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/mysql.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/mongodb.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/ubuntu.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/linux.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/docker.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/git.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/github.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/dagriel/dagriel/1e88a67688dc59aa0d8322c8678343d74692bf1d/assets/heroku.svg"></code>
-<br />
-<br />
-
-[![Stats Card](https://github-readme-stats-brown-eta-15.vercel.app/api?username=dagriel&show_icons=true&count_private=true&include_all_commits=true&theme=dark)](https://github.com/dagriel)
-
-[![Top Langs](https://github-readme-stats-brown-eta-15.vercel.app/api/top-langs/?username=dagriel&theme=dark)](https://github.com/dagriel)
-
-*NOTA: As principais linguagens de programação não fazem declarações sobre habilidades pessoais ou similares, é apenas uma figura-chave com base nas estatísticas do GitHub do usuário indicando a frequência com que cada uma foi utilizada.*
+---
+📫 **Conecte-se:** dagriel@gmail.com | **Idiomas:** Português (Nativo), Inglês e Espanhol

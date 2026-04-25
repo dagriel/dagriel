@@ -20,4 +20,4 @@ Atualmente focado na convergência entre Backend tradicional e IA Generativa:
 * **API:** Apigee, Swagger (OpenAPI), RESTful.
 
 ---
-📫 **Conecte-se:** dagriel@gmail.com | **Idiomas:** Português (Nativo), Inglês e Espanhol
+📫 **Conecte-se:** dagriel@gmail.com | https://dagriel.github.io | **Idiomas:** Português (Nativo), Inglês e Espanhol
